@@ -1,5 +1,8 @@
 ### Olá meu nome é Alisson dias 👋
 
+![software-software-development](https://user-images.githubusercontent.com/84820359/210569035-8482b539-27de-4732-981e-e969b718b3ae.gif)
+
+
 <div>
 <a href="https://github.com/Alissondiasdev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissondiasdev&layout=compact&langs_count=7&theme=dracula"/>
