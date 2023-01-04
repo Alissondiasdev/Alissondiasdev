@@ -1,10 +1,14 @@
 ### Olá meu nome é Alisosn dias 👋
 
+<div>
+<a href="https://github.com/Alissondiasdev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissondiasdev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alissondiasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-**Alissondiasdev/Alissondiasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 Olá meu nome é alisson dias sou desenvolvedor front-end...
-- 🎓 Estou cursando o 4º semestre de análise e desenvolvimento de sistemas e me aprofundando nos estudos voltado para front-end na alura...
+
+🎓 Estou cursando o 4º semestre de análise e desenvolvimento de sistemas e me aprofundando nos estudos voltado para front-end na alura...
 ## Ferramentas e Tecnologias
 
 
@@ -28,4 +32,6 @@
 <a href = "mailto:alissondias120894@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alisson-dias-20b553210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
 
