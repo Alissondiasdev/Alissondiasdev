@@ -13,7 +13,7 @@
 
 
 🎓 Estou cursando o 4º semestre de análise e desenvolvimento de sistemas e me aprofundando nos estudos voltado para front-end na alura...
-## Ferramentas e Tecnologias
+## Habilidades
 
 
 
