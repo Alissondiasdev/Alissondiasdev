@@ -1,6 +1,7 @@
 ### Olá meu nome é Alisson dias 👋
 
-![software-software-development](https://user-images.githubusercontent.com/84820359/210569035-8482b539-27de-4732-981e-e969b718b3ae.gif)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/84820359/210570618-34fbd600-2cd2-4d0c-9f5a-4cba46774ae6.gif)
 
 
 <div>
